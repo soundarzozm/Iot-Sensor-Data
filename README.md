@@ -35,7 +35,7 @@
 <br />
 <p align="left">
 
-  <h1 align="left">IoT Sensor motion Predictor</h1>
+  <h1 align="left">IoT Sensor Motion Predictor</h1>
 
   <p align="left">
     Predict the presence of human beings in a room using IoT sensor devices.
@@ -59,8 +59,9 @@
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
+  * [Data Exploration](#exploration)
+  * [Extract Transform Load](#etl)
+  * [Model definition, training, and evaluation](#model)
 * [Usage](#usage)
 * [Roadmap](#roadmap)
 * [Contributing](#contributing)
@@ -72,28 +73,33 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo`, `twitter_handle`, `email`
+This is a **Data Science** project using [Environmental Sensor Telemetry Data](https://www.kaggle.com/garystafford/environmental-sensor-data-132k).<br>
+This project consists of *data analysis*, *model definition* and *model training and evaluation* using various data science packages. 
 
 
 ### Built With
 
-* []()
-* []()
-* []()
+* [Apache Spark](https://spark.apache.org/)
+* [Matplotlib](https://matplotlib.org/)
+* [Seaborn](https://seaborn.pydata.org/)
+* [Apache Parquet](https://parquet.apache.org/)
+* [Keras](https://keras.io/)
+* [Tensorflow](https://www.tensorflow.org/)
+* [Sci-Kit Learn](https://scikit-learn.org/)
 
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+The project consists of three stages:
+1. [Data Exploration](#exploration)
+2. [Extract Transform Load](#etl)
+3. [Model definition, training, and evaluation](#model)
 
-### Prerequisites
+The .ipynb (Jupyter Notebook) files contain the three stages of the project.
+
+### Data Exploration
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
@@ -101,7 +107,18 @@ This is an example of how to list things you need to use the software and how to
 npm install npm@latest -g
 ```
 
-### Installation
+### Extract Transform Load
+ 
+1. Clone the repo
+```sh
+git clone https://github.com/github_username/repo.git
+```
+2. Install NPM packages
+```sh
+npm install
+```
+
+### Model definition, training, and evaluation
  
 1. Clone the repo
 ```sh
