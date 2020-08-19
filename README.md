@@ -40,7 +40,7 @@
   <h3 align="center">IoT Sensor motion Predictor</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+    Predict the presence of human beings in a room using IoT sensor devices.
     <br />
     <a href="https://github.com/soundarzozm/Iot-Sensor-Motion-Predictor"><strong>Explore the docs »</strong></a>
     <br />
@@ -155,7 +155,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/soundarzozm) - email
+Soundar Murugan - [@twitter](https://twitter.com/soundarzozm)
+E-Mail - [soundarmurugan91@gmail.com](soundarmurugan91@gmail.com)
 
 Project Link: [https://github.com/soundarzozm/Iot-Sensor-Motion-Predictor](https://github.com/soundarzozm/Iot-Sensor-Motion-Predictor)
 
@@ -174,16 +175,15 @@ Project Link: [https://github.com/soundarzozm/Iot-Sensor-Motion-Predictor](https
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/soundarzozm/Iot-Sensor-Motion-Predictor.svg?style=flat-square
 [contributors-url]: https://github.com/soundarzozm/Iot-Sensor-Motion-Predictor/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/soundarzozm/Iot-Sensor-Motion-Predictor.svg?style=flat-square
 [forks-url]: https://github.com/soundarzozm/Iot-Sensor-Motion-Predictor/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/soundarzozm/Iot-Sensor-Motion-Predictor.svg?style=flat-square
 [stars-url]: https://github.com/soundarzozm/Iot-Sensor-Motion-Predictor/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/soundarzozm/Iot-Sensor-Motion-Predictor.svg?style=flat-square
 [issues-url]: https://github.com/soundarzozm/Iot-Sensor-Motion-Predictor/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/soundarzozm/Iot-Sensor-Motion-Predictor.svg?style=flat-square
 [license-url]: https://github.com/soundarzozm/Iot-Sensor-Motion-Predictor/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/soundar-murugan
-[product-screenshot]: images/screenshot.png
