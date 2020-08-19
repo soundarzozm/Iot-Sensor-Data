@@ -33,13 +33,11 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
-  <a href="https://github.com/soundarzozm/Iot-Sensor-Motion-Predictor">
-  </a>
+<p align="left">
 
-  <h3 align="center">IoT Sensor motion Predictor</h3>
+  <h1 align="left">IoT Sensor motion Predictor</h1>
 
-  <p align="center">
+  <p align="left">
     Predict the presence of human beings in a room using IoT sensor devices.
     <br />
     <a href="https://github.com/soundarzozm/Iot-Sensor-Motion-Predictor"><strong>Explore the docs »</strong></a>
@@ -155,7 +153,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Soundar Murugan - [@twitter](https://twitter.com/soundarzozm)
+Soundar Murugan - [@soundarzozm](https://twitter.com/soundarzozm)<br>
 E-Mail - [soundarmurugan91@gmail.com](soundarmurugan91@gmail.com)
 
 Project Link: [https://github.com/soundarzozm/Iot-Sensor-Motion-Predictor](https://github.com/soundarzozm/Iot-Sensor-Motion-Predictor)
