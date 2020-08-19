@@ -99,45 +99,37 @@ The project consists of three stages:
 
 The .ipynb (Jupyter Notebook) files contain the three stages of the project.
 
-### Data Exploration
+## Data Exploration
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
+Data Exploration refers to the initial exploration of the dataset along with subtle data analysis to obtain a vague idea about the dataset.<br>
+This consists of statistical description, correlation matrix, box plots, etc.
 
-### Extract Transform Load
+## Extract Transform Load
  
-1. Clone the repo
-```sh
-git clone https://github.com/github_username/repo.git
-```
-2. Install NPM packages
-```sh
-npm install
-```
+Extract Transform Load (ETL) refers to the process of copying data from one or more sources into a destination system which represents the data differently from the source or in a different context than the source.<br>
+It also involves transforming the data, feature engineering, detailed data analysis and improving the overall quality of the data.
 
-### Model definition, training, and evaluation
+## Model definition, training, and evaluation
  
-1. Clone the repo
-```sh
-git clone https://github.com/github_username/repo.git
-```
-2. Install NPM packages
-```sh
-npm install
-```
+Model definition refers to the process of choosing the models those are best suited for the dataset, along with the initial hyperparameters.<br>
+Model training refers to the process of fitting the models to the training data.<br>
+Model evaluation refers to the process of evaluating the process of the models using certain appropriate evaluation metrics and tuning the hyperparameters again based on the results.<br>
+<br>
+It is an iterative process until required performance is obtained. 
 
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+This model can be used at situations where cameras and proximity sensors are not available to determine if there is a human being nearby.<br>
+The model uses various other factors such as:
+* Temperature
+* Humidity
+* Smoke
+* Light
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
+to determine if there is a human being in proximity.
 
 
 <!-- ROADMAP -->
@@ -180,9 +172,8 @@ Project Link: [https://github.com/soundarzozm/Iot-Sensor-Motion-Predictor](https
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+* [Gary A. Stafford](https://www.kaggle.com/garystafford) for providing the dataset for public use.
+* [Romeo Kienzler](https://www.linkedin.com/in/romeo-kienzler-089b4557/) for providing motivation, education and inspiration for the project.
 
 
 
