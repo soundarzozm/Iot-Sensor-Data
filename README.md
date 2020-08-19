@@ -93,9 +93,9 @@ This project consists of *data analysis*, *model definition* and *model training
 ## Getting Started
 
 The project consists of three stages:
-1. [Data Exploration](#exploration)
-2. [Extract Transform Load](#etl)
-3. [Model definition, training, and evaluation](#model)
+1. Data Exploration
+2. Extract Transform Load
+3. Model definition, training, and evaluation
 
 The .ipynb (Jupyter Notebook) files contain the three stages of the project.
 
