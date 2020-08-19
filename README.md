@@ -86,6 +86,7 @@ This project consists of *data analysis*, *model definition* and *model training
 * [Keras](https://keras.io/)
 * [Tensorflow](https://www.tensorflow.org/)
 * [Sci-Kit Learn](https://scikit-learn.org/)
+* [Pandas](https://pandas.pydata.org/)
 
 
 
