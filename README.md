@@ -99,17 +99,17 @@ The project consists of three stages:
 
 The .ipynb (Jupyter Notebook) files contain the three stages of the project.
 
-# exploration
+## Data exploration
 
 Data Exploration refers to the initial exploration of the dataset along with subtle data analysis to obtain a vague idea about the dataset.<br>
 This consists of statistical description, correlation matrix, box plots, etc.
 
-# etl
+## Extract Transform Load
  
 Extract Transform Load (ETL) refers to the process of copying data from one or more sources into a destination system which represents the data differently from the source or in a different context than the source.<br>
 It also involves transforming the data, feature engineering, detailed data analysis and improving the overall quality of the data.
 
-# model
+## Model definition, training, and evaluation
  
 Model definition refers to the process of choosing the models those are best suited for the dataset, along with the initial hyperparameters.<br>
 Model training refers to the process of fitting the models to the training data.<br>
